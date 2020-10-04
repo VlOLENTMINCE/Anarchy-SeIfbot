@@ -1,3 +1,9 @@
+# NOTE 
+We are not the official Anarchy Selfbot community 
+We are another group of coders and just named our 
+Selfbot Anarchy Selfbot so this is not a copy or 
+Anything such!
+
 # Anarchy-SeIfbot
 beta release version for my discord selfbot  basically has everything you need for a selfbot plus more has a built in antinuke and music player too
 
