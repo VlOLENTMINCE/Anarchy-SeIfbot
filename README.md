@@ -30,9 +30,9 @@ put token in config folder and password if you want to steal other people's prof
 
 # Credits 
 - VIOLENTMINCE 
--BIXXER
--18Tacey
--Yuki
+- BIXXER
+- 18Tacey
+- Yuki
 
 # Donate 
 Dm me in Discord to donate VIOLENTMINCE#3852
